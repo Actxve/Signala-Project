@@ -1,0 +1,12 @@
+25/4/2026 - ASL Hand Tracking:
+FPS: 21.1 ~ 21.8 Stable
+landmarks correspond as follows:
+0 - 4 (Thumb starting from wrist with one mark at each joint)
+5 - 8 (Index finger starting base with a mark at each joint)
+9 - 12 (middle finger)
+13 - 16 (ring finger)
+17 - 21 (pinky finger)
+
+Issues: 
+Low fps (landmarks stop reading completely at certains peeds)
+Struggles with creating landmarks on fists
